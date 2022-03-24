@@ -3,7 +3,7 @@ import os
 import time
 from discord.ext import commands
 
-owners  = [885830821704003614, 795595550850023485]
+owners  = [949594002972377118]
 
 client = commands.Bot(command_prefix=">", help_command=None)
 
