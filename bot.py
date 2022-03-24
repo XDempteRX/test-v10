@@ -54,4 +54,4 @@ async def methods(ctx):
     )
     await ctx.reply(embed=embed)
 
-client.run("YOUR TOKEN", bot=True)
+client.run("ODg2Mzc0MTIyMDE0MjY1Mzc0.YT0qOg.rijR5bjT9VAn-POxeNXnDIbilZc", bot=True)
